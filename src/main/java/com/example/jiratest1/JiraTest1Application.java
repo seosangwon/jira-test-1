@@ -8,6 +8,7 @@ public class JiraTest1Application {
 
     public static void main(String[] args) {
         SpringApplication.run(JiraTest1Application.class, args);
+        System.out.println("지라 1번째 테스트입니다!");
 
     }
 
